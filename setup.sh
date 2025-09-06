@@ -4,8 +4,6 @@ set -e
 echo "🔹 Setting up YouTube Extractor project..."
 
 # Project root
-mkdir -p youtube-extractor
-cd youtube-extractor
 
 # Python deps
 echo "fastapi
